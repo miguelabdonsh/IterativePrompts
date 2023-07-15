@@ -1,12 +1,9 @@
 # IterativePrompts
-Analyze and refine prompts to generate marketing copy from a product
+## Analyze and refine prompts to generate marketing copy from a product
 
+Prompt engineering is a strategy used in the field of artificial intelligence to guide language models in their response generation. It follows two basic principles:
 
-La ingeniería de prompts es una estrategia utilizada en el campo de la inteligencia artificial para guiar a los modelos de lenguaje en su generación de respuestas. 
-Sigue dos principios basicos:
-	--Principio 1 --> Escribir instrucciones claras y especificas
-	--Principio 2 --> Dar tiempo al modelo para "pensar"
+- **Principle 1**: Write clear and specific instructions
+- **Principle 2**: Give time to the model to "think"
 
-
-Esta tecnlogia mejora significativamente la generacion de respuestas, desde resumir un texto centrandose en los topicos especificados por el usuario hasta la generacion de correos de servicio al cliente que se adaptan a la revision de cada cliente.
-A continuacion muestro como aplicar la ingenieria de prompts a un texto para generar un producto de marketing.
+This technology significantly improves the generation of responses, from summarizing a text focusing on the topics specified by the user to the generation of customer service emails that adapt to each customer's review. Below I show how to apply prompt engineering to a text to generate a marketing product.
