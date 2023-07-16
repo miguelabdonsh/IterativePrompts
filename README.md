@@ -1,4 +1,5 @@
 # IterativePrompts
+
 ## Analyze and refine prompts to generate marketing copy from a product
 
 Prompt engineering is a strategy used in the field of artificial intelligence to guide language models in their response generation. It follows two basic principles:
